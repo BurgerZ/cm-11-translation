@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Громкая связь</string>
+    <string name="bluetooth_remember_choice">Больше не спрашивать</string>
+    <string name="session_key_dialog_title">Введите ключ сессии для «%1$s»</string>
+    <string name="session_key_dialog_header">Требуется ключ сессии Bluetooth</string>
+    <string name="acceptance_timeout_message">Превышено время ожидания разрешения подключения к устройству «%1$s»</string>
+    <string name="authentication_timeout_message">Превышено время ожидания аутентификации на устройстве «%1$s»</string>
+    <string name="notif_ticker">Запрос разрешения Bluetooth</string>
+    <string name="notif_message">Нажмите для аутентификации устройства «%1$s»</string>
+    <string name="dun_notif_title">Требуется ключ сессии для использования Bluetooth-модема</string>
+    <string name="bluetooth_dun_request">Запрос разрешения на использование Bluetooth-модема</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">«%1$s» пытается использовать Bluetooth-модем этого устройства. Разрешить?</string>
+    <string name="ftp_notif_title">Требуется ключ сессии для обмена файлами</string>
+    <string name="ftp_notif_active_session">Активна Bluetooth-сессия обмена файлами</string>
+    <string name="ftp_notif_connected">Устройство «%1$s» подключено.</string>
+    <string name="bluetooth_ftp_request">Запрос разрешения для обмена файлами</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">«%1$s» пытается получить доступ к файлам и папкам на этом устройстве. Разрешить?</string>
+    <string name="map_notif_active_session">Активна Bluetooth-сессия доступа к сообщениям</string>
+    <string name="map_notif_connected">Устройство «%1$s» подключено.</string>
+    <string name="bluetooth_mas_request">Запрос доступа к сообщениям</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">«%1$s» пытается получить доступ к сообщениям на этом устройстве. Разрешить?</string>
+    <string name="bluetooth_sap_request">Запрос доступа к SIM-карте</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">«%1$s» пытается получить доступ к SIM-карте этого устройства. Разрешить?</string>
+</resources>

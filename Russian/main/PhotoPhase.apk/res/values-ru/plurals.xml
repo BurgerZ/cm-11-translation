@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_number_of_pictures">
+        <item quantity="other">%d фотографий</item>
+        <item quantity="one">%d фотография</item>
+        <item quantity="few">%d фотографии</item>
+    </plurals>
+    <plurals name="msg_media_reload_complete">
+        <item quantity="other">База мультимедиа обновлена. Найдено %d фотографий.</item>
+        <item quantity="one">База мультимедиа обновлена. Найдена %d фотография.</item>
+        <item quantity="few">База мультимедиа обновлена. Найдено %d фотографии.</item>
+    </plurals>
+    <plurals name="pref_disposition_summary_format">
+        <item quantity="other">%1$d изображений показано в %2$s</item>
+        <item quantity="one">%1$d изображение показано в %2$s</item>
+        <item quantity="few">%1$d изображения показаны в %2$s</item>
+    </plurals>
+</resources>

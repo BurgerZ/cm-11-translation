@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_stats_duration">
+        <item>%3$s</item>
+        <item>%2$s</item>
+        <item>%2$s, %3$s</item>
+        <item>%1$s</item>
+        <item>%1$s, %3$s</item>
+        <item>%1$s, %2$s</item>
+        <item>%1$s, %2$s, %3$s</item>
+    </string-array>
+</resources>

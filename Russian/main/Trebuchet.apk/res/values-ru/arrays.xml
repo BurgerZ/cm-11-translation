@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transition_effect_entries">
+        <item>Нет</item>
+        <item>Увеличение</item>
+        <item>Уменьшение</item>
+        <item>Поворот вверх</item>
+        <item>Поворот вниз</item>
+        <item>Внутри куба</item>
+        <item>Снаружи куба</item>
+        <item>Стопка</item>
+        <item>Сжатие</item>
+        <item>Переворот</item>
+        <item>Внутри цилиндра</item>
+        <item>Снаружи цилиндра</item>
+        <item>Карусель</item>
+        <item>Обзор</item>
+    </string-array>
+</resources>

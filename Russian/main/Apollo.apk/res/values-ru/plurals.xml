@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nartists">
+        <item quantity="other">%d исполнителей</item>
+        <item quantity="one">%d исполнитель</item>
+        <item quantity="few">%d исполнителя</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+    </plurals>
+    <plurals name="Ngenres">
+        <item quantity="other">%d жанров</item>
+        <item quantity="one">%d жанр</item>
+        <item quantity="few">%d жанра</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d треков добавлено в плейлист</item>
+        <item quantity="one">%d трек добавлен в плейлист</item>
+        <item quantity="few">%d трека добавлено в плейлист</item>
+    </plurals>
+    <plurals name="NNNtracksfromplaylist">
+        <item quantity="other">%d треков удалено из плейлиста</item>
+        <item quantity="one">%d трек удалён из плейлиста</item>
+        <item quantity="few">%d трека удалено из плейлиста</item>
+    </plurals>
+    <plurals name="NNNtrackstoqueue">
+        <item quantity="other">%d треков добавлено в очередь</item>
+        <item quantity="one">%d трек добавлен в очередь</item>
+        <item quantity="few">%d трека добавлено в очередь</item>
+    </plurals>
+    <plurals name="NNNtrackstofavorites">
+        <item quantity="other">%d треков добавлено в избранное</item>
+        <item quantity="one">%d трек добавлен в избранное</item>
+        <item quantity="few">%d трека добавлено в избранное</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">%d трек удалён</item>
+        <item quantity="few">%d трека удалено</item>
+    </plurals>
+</resources>

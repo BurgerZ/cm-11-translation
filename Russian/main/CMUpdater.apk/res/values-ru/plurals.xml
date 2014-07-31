@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="not_new_updates_found_body">
+        <item quantity="other">Доступно %d обновлений системы</item>
+        <item quantity="one">Доступно %d обновление системы</item>
+        <item quantity="few">Доступно %d обновления системы</item>
+    </plurals>
+    <plurals name="extension_status">
+        <item quantity="other">Доступно %d обновлений системы</item>
+        <item quantity="one">Доступно %d обновление системы</item>
+        <item quantity="few">Доступно %d обновления системы</item>
+    </plurals>
+    <plurals name="extension_expandedTitle">
+        <item quantity="other">Доступно %d обновлений CyanogenMod</item>
+        <item quantity="one">Доступно %d обновление CyanogenMod</item>
+        <item quantity="few">Доступно %d обновления CyanogenMod</item>
+    </plurals>
+</resources>

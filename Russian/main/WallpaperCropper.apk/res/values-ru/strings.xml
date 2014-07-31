@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_keyguard_wallpaper">Очистить</string>
+    <string name="wallpaper_accessibility_name">Изображение %1$d из %2$d</string>
+    <string name="announce_selection">Выбрано %1$s</string>
+    <string name="wallpaper_delete">Удалить</string>
+    <string name="pick_image">Выбрать изображение</string>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="activity_not_found">Приложение удалено.</string>
+    <string name="crop_wallpaper">Обрезка изображения</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="wallpaper_load_fail">Не удалось загрузить изображение</string>
+</resources>

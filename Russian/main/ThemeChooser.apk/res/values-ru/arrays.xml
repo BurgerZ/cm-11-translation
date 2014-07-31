@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="get_more_entry_names">
+        <item>«Магазин тем» CyanogenMod</item>
+        <item>Play Маркет</item>
+        <item>Дополнительные сведения в Wiki CM</item>
+    </string-array>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dmc_st_app_name">Обновить устройство</string>
+    <string name="dmc_st_update_configuration">Конфигурация устройства</string>
+    <string name="dmc_st_update_phone">Обновить устройство</string>
+    <string name="dmc_st_update_firmware">Обновить прошивку</string>
+    <string name="dmc_st_update_prl">PRL Обновление</string>
+    <string name="dmc_okButton">ОК</string>
+    <string name="dmc_st_session_is_progressing">Сейчас проходит сессия.</string>
+    <string name="dmc_st_prl_session">Проверка наличия обновления для прошивки...</string>
+    <string name="dmc_st_cifumo_session">Проверка наличия обновления для прошивки...</string>
+    <string name="dmc_st_common_session">Сеть подготавливает вашу услугу. Подождите, пожалуйста...</string>
+    <string name="dmc_st_session_cancel">Сессия отменена.</string>
+    <string name="system_update_settings_list_uicc_title">Разблокировать UICC-карту</string>
+    <string name="dlg_info_UICC_unlocked">Карта UICC разблокирована.</string>
+    <string name="dmc_st_yes">Да</string>
+    <string name="dmc_st_no">Нет</string>
+    <string name="dmc_st_notification">Пришло уведомление о личном сообщении</string>
+    <string name="dmc_st_client_error">"Ошибка сети. 
+Попробуйте ещё раз позже."</string>
+    <string name="dmc_st_client_error_code">"Ошибка сети с кодом %1$s
+
+Попробуйте ещё раз позже."</string>
+    <string name="dmc_st_session_progressing">Сейчас проходит сессия.</string>
+    <string name="dmc_st_downloading">"Выполняется загрузка обновления прошивки…
+
+Запрос на инсталляцию появится в следующем окне."</string>
+    <string name="dmc_st_no_profile">"Обновление профиля не получается завершить. Попробуйте ещё раз позже.
+Если проблема сохраняется, свяжитесь со службой поддержки клиентов."</string>
+    <string name="dmc_st_no_firmware">Обновлений прошивки нет.</string>
+    <string name="dmc_st_bad_url">URL-адрес неверный.</string>
+    <string name="dmc_st_profile_upgrade">Профиль был обновлен. Нажмите ОК для продолжения.</string>
+    <string name="dmc_st_comm_fail">"Ошибка сети. 
+Попробуйте ещё раз позже."</string>
+    <string name="dmc_st_server_init">Инициализация сети</string>
+    <string name="dmc_st_airplane_mode">Чтобы выйти на связь с сервером, отключите режим самолета</string>
+    <string name="dmc_cancelButton">Отмена</string>
+    <string name="button_manual">Активировать</string>
+    <string name="dlg_info_dm_connecting">"Сеть подготавливает вашу услугу. 
+Подождите, пожалуйста..."</string>
+    <string name="dlg_info_dm_resetphone">Ваше устройство было активировано.</string>
+    <string name="dlg_type_dm_hfa">Активация громкой связи</string>
+    <string name="dlg_info_dm_hfa">"Активация громкой связи
+
+Выполняется соединение с сетью..."</string>
+    <string name="dlg_info_dm_hfa_retry">"Ожидается повторная попытка...
+
+
+
+Если вы ещё не работаете с представителем, выберите \"Активировать сейчас\".
+
+
+
+Повторный запуск %1$s %2$s"</string>
+    <string name="dlg_info_dm_hfa_retry_failed">"Активация громкой связи
+
+Не получается завершить активацию.
+Попробуйте ещё раз позже.
+
+Если проблема останется, можно связаться со службой поддержки клиентов."</string>
+    <string name="dlg_info_checking_for_prl">Проверка наличия обновления для прошивки...</string>
+    <string name="dlg_type_update_prl">Обновить PRL</string>
+    <string name="dlg_type_update_profile">Обновить профиль</string>
+    <string name="dlg_type_update_firmware">Обновить прошивку</string>
+    <string name="dlg_info_checking_for_firmware">Проверка наличия обновления для прошивки...</string>
+    <string name="dlg_info_downloading_firmware">"Выполняется загрузка обновления прошивки…
+
+Запрос на инсталляцию появится в следующем окне."</string>
+    <string name="dlg_info_firmware_install1">Для вашего устройства доступно новое программное обеспечение.</string>
+    <string name="dlg_info_firmware_install2">Обновление займет</string>
+    <string name="dlg_info_firmware_install3">"минут до завершения.
+Хотите продолжить?"</string>
+    <string name="dlg_info_firmware_install3_sec">"секунд до завершения.
+Хотите продолжить?"</string>
+    <string name="dlg_info_firmware_pkg_saved">"Пакет был сохранен на вашем устройстве.
+
+Чтобы обновить программное обеспечение позже, выберите \"Обновить прошивку\" в меню \"Настройки\"."</string>
+    <string name="dlg_info_report_to_server">Выполняется отправка информации о статусе обновления на сервер...</string>
+    <string name="dlg_info_low_battery">Невозможно обновить прошивку при низком уровне заряда батареи</string>
+    <string name="dlg_info_no_firmware_update">Обновлений прошивки нет.</string>
+    <string name="dlg_info_no_prl_update">Обновлений списка приоритетных сетей для роуминга нет.</string>
+    <string name="dlg_info_no_profile_from_server">"Обновление профиля не получается завершить. Попробуйте ещё раз позже.
+Если проблема сохраняется, свяжитесь со службой поддержки клиентов."</string>
+    <string name="dlg_info_prl_updated">"Список приоритетных сетей для роуминга был обновлен.
+
+Нажмите ОК для продолжения."</string>
+    <string name="dlg_info_firmware_updated">Обновление завершено</string>
+    <string name="dlg_info_plzwait_cancel">Подождите, пока выполняется отмена...</string>
+    <string name="dlg_info_firmware_install_warn">ВНИМАНИЕ: Вы не можете осуществлять или принимать звонки, включая экстренные вызовы, в ходе обновления.</string>
+    <string name="dlg_info_authentication_error">Ошибка аутентификации. Попробуйте еще раз позднее</string>
+    <string name="toast_cannot_exec">Вы можете выполнить эту операцию только в США.</string>
+    <string name="sp_dlg_btn_defer_NORMAL">Позже</string>
+    <string name="sp_dlg_info_defer_NORMAL">Выбор одной из опций ниже отложит обновление на некоторое время. Время будет указано на устройстве. Если в течение 5 минут не будет ответа, обновление начнется автоматически.</string>
+    <string name="sp_dlg_btn_defer_1_NORMAL">Подождите 1 час</string>
+    <string name="sp_dlg_btn_defer_2_NORMAL">Подождите 4 час</string>
+    <string name="sp_dlg_btn_defer_3_NORMAL">Подождите до 2:00</string>
+    <string name="sp_Emergencycall_NORMAL">Экстренный вызов</string>
+    <string name="sp_reset_NORMAL">Сброс</string>
+    <string name="dlg_info_mip_error_warn">"Ваше устройство столкнулось с ошибкой при попытке подключения к сети, поэтому его требуется перенастроить. Хотите перенастроить это устройство?
+При этом, ваш аккаунт будет удален с него, но личная информация останется."</string>
+</resources>

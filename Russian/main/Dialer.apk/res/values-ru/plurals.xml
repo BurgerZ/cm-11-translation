@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено контактов: %d</item>
+        <item quantity="one">Найдено контактов: 1</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="other">%d звонков</item>
+        <item quantity="one">%d звонок</item>
+        <item quantity="few">%d звонка</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+</resources>

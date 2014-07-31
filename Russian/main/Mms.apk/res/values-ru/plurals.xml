@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="template_confirm_delete_conversation">
+        <item quantity="other">Будет удалено %1$s шаблонов.</item>
+        <item quantity="one">Будет удалён %1$s шаблон.</item>
+        <item quantity="few">Будет удалено %1$s шаблона.</item>
+    </plurals>
+    <plurals name="remaining_delay_time">
+        <item quantity="other">"Отправка через %1$d секунд...
+Нажмите для отмены."</item>
+        <item quantity="one">"Отправка через %1$d секунду...
+Нажмите для отмены."</item>
+        <item quantity="few">"Отправка через %1$d секунды...
+Нажмите для отмены."</item>
+    </plurals>
+    <plurals name="confirm_mark_unread_conversation">
+        <item quantity="other">%1$s цепочек будут помечены как содержащие новые сообщения.</item>
+        <item quantity="one">%1$s цепочка будет помечена как содержащая новые сообщения.</item>
+        <item quantity="few">%1$s цепочки будут помечены как содержащие новые сообщения.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+        <item quantity="one">Цепочка будет удалена.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Еще сообщений: %1$s</item>
+        <item quantity="one">Еще сообщений: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Темы</string>
+    <string name="lock_screen">Обои экрана блокировки</string>
+    <string name="icons">Значки</string>
+    <string name="fonts">Шрифты</string>
+    <string name="wallpapers">Обои</string>
+    <string name="boot_anims">Анимация загрузки</string>
+    <string name="ringtones">Рингтоны</string>
+    <string name="notifications">Уведомления</string>
+    <string name="alarms">Будильники</string>
+    <string name="style">Стиль</string>
+    <string name="default_tag">(По умолчанию)</string>
+    <string name="apply">Применить</string>
+    <string name="applying">Применение…</string>
+    <string name="remove">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="no_preview_available">Предпросмотр недоступен</string>
+    <string name="alarm_label">Будильник</string>
+    <string name="notification_label">Уведомление</string>
+    <string name="ringtone_label">Рингтон</string>
+    <string name="unknown_author">Автор не указан</string>
+    <string name="font_preview_letters">АаБбCcDd123</string>
+    <string name="theme_installed_notification_title">Тема «%s» установлена</string>
+    <string name="theme_installed_notification_text">Тема успешно установлена.</string>
+    <string name="menu_item_get_more_themes">Скачать ещё</string>
+    <string name="get_more_description">Вы можете скачать темы по следующим ссылкам:</string>
+</resources>
